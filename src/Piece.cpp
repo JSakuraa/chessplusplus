@@ -1,0 +1,1 @@
+/* This is the class that will define the basic functions for all pieces */
