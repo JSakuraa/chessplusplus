@@ -7,6 +7,8 @@
 #include <string>
 #include "Piece.h"
 
+class Piece;
+
 class Board
 {
 public:
