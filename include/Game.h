@@ -1,1 +1,1 @@
-/* Game header file */
+// Game.h
